@@ -15,4 +15,4 @@ To build the example natively on the Raspberry Pi:
 
 g++ -fpermissive -Wall i2c8Bit.cpp mcp23017test.cpp -o outBin1
 
-In both cases make sure that the i2c8Bit.h header file is in the work directory.
+Make sure that the i2c8Bit.h header file is in the work directory.
