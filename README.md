@@ -7,10 +7,6 @@ Description: The i2c8Bit  C++ class enables the Raspberry Pi to communicate with
 
 ========================================================================================================
 
-For more information please visit: http://hertaville.com/2013/04/01/interfacing-an-i2c-gpio-expander-mcp23017-to-the-raspberry-pi-using-c/
-
-========================================================================================================
-
 To build the example natively on the Raspberry Pi:
 
 g++ -fpermissive -Wall i2c8Bit.cpp mcp23017test.cpp -o outBin1
